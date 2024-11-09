@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aghilesh1999" alt="aghilesh1999" /></a> </p>
 
-- 💬 Ask me about **Studying the programming languages**
+- **Studying the programming languages**
 
 - 📫 How to reach me **Aghileshgopalan02@gmail.com**
 
